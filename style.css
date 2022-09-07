@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+
+body {
+    padding-bottom: 100px;
+}
+
+.text-profile {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.text-profile h1{
+    color: white;
+}
+
+.text-profile p{
+    color: white;
+}
+
+.profile-pict {
+    margin-top: 150px;
+}
+
+.fa-arrow-right {
+   background-color:#6fc5bd;
+   padding: 15px;
+   border-radius: 50px;
+   color: white;
+}
+
+.about {
+    background-color: #A5F1E9;
+    margin-top: 50px;
+    padding: 20px 30px 35px;
+    border-radius: 10px;
+}
+
+.email { 
+    background-color: #A5F1E9 ;
+    padding: 20px 30px 15px;
+    border-radius: 10px;
+}
+
+.tugas {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.fa-arrow-right:hover {
+  background-color: blue;
+  transition: ease-in 0.5s;
+   margin-top: -20px;
+}
+
+.tugas {
+    color: white;
+    font-family: 'Kalam';
+}
+
+.tugas-text h1 {
+    color: white;
+    font-size: 25px;
+
+}
+
+.tugas-text p {
+    color:white;
+ 
+}
+
+.tugas-text {
+    background-color: #A5F1E9;
+    padding: 25px 25px 25px 25px;
+    border-radius: 12px;
+    margin-top: -120px;
+    padding-top: 80px;
+}
+
+.fa-github {
+    margin-top: 50px;
+    font-size: 80px;
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+    border-radius: 100px;
+    color: black;
+}
+
+.fa-github:hover {
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    transition: ease 0.5s;
+}
+
+.github-text {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+
+.bye {
+    margin-top: 50px;
+    background-color: #A5F1E9;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.fa-arrow-left {
+    color: white;
+}
+
+.bye:hover {
+  margin-top: 20px;
+  background-color: #00f7de;
+  transition: ease-in-out 0.5s;
+}
